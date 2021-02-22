@@ -1,4 +1,5 @@
 {
+    "count": 111,
     "housewives": [
         {
             "id": 1,
@@ -3216,1429 +3217,595 @@
         },
         {
             "id": 92,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Charrisse",
+            "last_name": "Jackson-Jordan",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "07/16/1965",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1", 
+                "2"
             ],
+            "previous_partners": "Eddie Jackson",
             "children": [
-                "",
-                "",
-                ""
+                "Jackson",
+                "Skylar"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Starting drama",
+                "Renovating her champagne room"
             ],
             "dislikes": [
-                "",
+                "Not being involved in the drama"
                 ""
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
+                "Season 1: If I don't know who you are, then you're not worth knowing.",
+                "Season 2: Why cry over spilled milk when you can laugh over champagne?"
+            ]
         },
         {
             "id": 93,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Katie",
+            "last_name": "Rost",
+            "birthday": "07/07/1980",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1"
             ],
             "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
+                "Kathryn",
+                "Renee",
+                "Rocco"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
+                "Season 1: I'm a ball and gala girl. It's my legacy and my calling."
+            ]
         },
         {
             "id": 94,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
+            "first_name": "Monique",
+            "last_name": "Samuels",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "10/06/1983",
+            "seasons": [ 
+                "2",
+                "3",
+                "4",
+                "5"
             ],
+            "partner": "Chris Samuels",
             "children": [
-                "",
-                "",
-                ""
+                "Christopher Jr.",
+                "Milani",
+                "Chase"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "T'Challa",
+                "Standing up for herself",
+                "Her family",
+                "Calling out the bullshit"
             ],
             "dislikes": [
-                "",
-                ""
+                "Candiace Dillard Bassett",
+                "Being asked to get dragged and then complaining about getting dragged"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 2: I may be rough around the edges, but baby so are diamonds.",
+                "Season 3: You'll never put me in a box, because I'm the whole darn package.",
+                "Season 4: I've traded in my umbrella, it's all gold at the end of this rainbow.",
+                "Season 5: Maybe if you tried a little harder, you wouldn't have to try me."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=rd3zGlIKvO4"
         },
         {
             "id": 95,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Candiace",
+            "last_name": "Dillard-Bassett",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "12/14/1986",
             "seasons": [
-                "", 
-                "",
-                ""
+                "3", 
+                "4",
+                "5"
             ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
+            "partner": "Chris Bassett",
             "likes": [
-                "",
-                "",
-                ""
+                "Lying",
+                "Bullying people in real life and on Twitter",
+                "Making herself the victim",
+                "Running at people with butter knives and making a complete ass of herself"
             ],
             "dislikes": [
-                "",
-                ""
+                "Monique Samuels",
+                "Anyone who is team Monique Samuels",
+                "Taking any sort of accountability"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 3: Life is a pageant, and I'm in it to win it.",
+                "Season 4: Now that I'm marrying my prince, this sleeping beauty is woke.",
+                "Season 5: Reading is fundamental, and, honey, I own the library."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=fB1cJIw11j0"
         },
         {
             "id": 96,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Wendy",
+            "last_name": "Osefo",
+            "city": "Potomac",
+            "show": "The Real Housewives of Potomac",
+            "birthday": "05/21/1984",
             "seasons": [
-                "", 
-                "",
-                ""
+                "5"
             ],
+            "partner": "Edward Osefo",
             "children": [
-                "",
-                "",
-                ""
+                "Karter",
+                "Kruz",
+                "Kamrynn"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Reminding people she has 4 degrees",
+                "Being a doctor",
+                "Proud to be the first ever Nigerian housewife"
             ],
             "dislikes": [
-                "",
-                ""
+                "When people question her degrees",
+                "When people forget about her degrees"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
+                "Season 5: The professor has arrived, and class is officially in session."
+            ]
         },
         {
             "id": 97,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Cary",
+            "last_name": "Deuber",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "05/30/1976",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1", 
+                "2",
+                "3"
             ],
+            "partner": "Mark Deuber",
             "children": [
-                "",
-                "",
-                ""
+                "Zuri"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Doing her own Botox for free",
+                "Having relatives in Copenhagen"
             ],
             "dislikes": [
-                "",
-                ""
+                "Rumors about her husband at the Round-Up",
+                "Not flying first class"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 1: I'm not a trophy wife. I'm a lifetime achievement award.",
+                "Season 2: Every girl has skeletons in their closet, mine are next to my Birkin.",
+                "Season 3: When life gets messy, just build a bigger closet."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=U1FpJquY-jk"
         },
         {
             "id": 98,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Tiffany",
+            "last_name": "Hendra",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "08/21/1971",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1"
             ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
+            "partner": "Aaron Hendra",
             "likes": [
-                "",
-                "",
-                ""
+                "Bragging about her husband"
             ],
             "dislikes": [
-                "",
-                ""
+                "Not feeling supported by Leann"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
+                "Season 1: I came home to Dallas to shine my light, not to fight."
+            ]
         },
         {
             "id": 99,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Stephanie",
+            "last_name": "Hollman",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "06/13/1980",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
             ],
+            "partner": "Travis Hollman",
             "children": [
-                "",
-                "",
-                ""
+                "Chance",
+                "Cruise"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Poop jokes",
+                "Being from Oklahoma",
+                "Ignoring any and all budgets",
+                "Literally saving lives (she donated bone marrow to a stranger!)"
             ],
             "dislikes": [
-                "",
-                ""
+                "People not thinking poop jokes are funny",
+                "Being called trashy"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 1: I'm the girl next door, if you live in a big old mansion.",
+                "Season 2: I married into money, but family is my fortune.",
+                "Season 3: Investing in drama is not in my budget.",
+                "Season 4: I never carry a grudge, it won't match my shoes.",
+                "Season 5: I don't need your approval. I need you to get out of my way."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=cU3pMNw806M"
         },
         {
             "id": 100,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "LeAnne",
+            "last_name": "Locken",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "06/07/1967",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1", 
+                "2",
+                "3",
+                "4"
             ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
+            "partner": "Rich Emberlin",
             "likes": [
-                "",
-                "",
-                ""
+                "Her hands",
+                "Bringing up that she was raised at a carnival",
+                "Her Infinity 164 Ways to Wear a Dress"
             ],
             "dislikes": [
-                "",
-                ""
+                "The Red Light District in Thailand",
+                "People claiming there was no food at her wedding"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 1: I grew up a carnie kid. Play games with me, and you're gonna pay.",
+                "Season 2: I'm a true Texan, no bull, but all horns.",
+                "Season 3: You don't mess with Texas and you don't mess with me.",
+                "Season 4: Dallas is a pageant that I always win."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=gFtrrBdlTK4"
         },
         {
             "id": 101,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Brandi",
+            "last_name": "Redmond",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "07/10/1978",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1", 
+                "2",
+                "3",
+                "4",
+                "5"
             ],
+            "partner": "Bryan Redmond",
             "children": [
-                "",
-                "",
-                ""
+                "Brinkley",
+                "Bruin",
+                "Brilynn",
+                "Brooklyn"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Poop jokes",
+                "Reliving being a Dallas Cowboys cheerleader whenever she has a moment",
+                "Her podcast with Stephanie"
             ],
             "dislikes": [
-                "",
-                ""
+                "Old videos resurfacing",
+                "Being called trashy"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 1: I was a Cowboys cheerleader, but in Dallas, I'm never on the sidelines.",
+                "Season 2: I cheered for the Cowboys, so I never get played.",
+                "Season 3: This isn't my first rodeo, so I'm not taking your bull.",
+                "Season 4: When you mess with a ginger, expect some spice.",
+                "Season 5: Take it from me, a sinner is just a saint who keeps on trying."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=cU3pMNw806M"
         },
         {
             "id": 102,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "D'Andra",
+            "last_name": "Simmons",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "03/15/1969",
             "seasons": [
-                "", 
-                "",
-                ""
+                "2", 
+                "3",
+                "4",
+                "5"
             ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
+            "partner": "Jeremy Locke",
             "likes": [
-                "",
-                "",
-                ""
+                "Hard Night Good Morning skincare",
+                "Her Shaman"
             ],
             "dislikes": [
-                "",
-                ""
+                "Working with Momma Dee",
+                "Doing trunk shows with Kary"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 2: I started from a Dallas dynasty, but I'll finish with my own empire.",
+                "Season 3: Running a family business is a job for one, tough, mother.",
+                "Season 4: I'm minding my business, so start minding yours.",
+                "Season 5: Dallas girls are sugar and spice, but I'm still working on nice."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=Sm_WFDGq_Ik"
         },
         {
             "id": 103,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Kameron",
+            "last_name": "Wescott",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "01/18/1983",
             "seasons": [
-                "", 
-                "",
-                ""
+                "2", 
+                "3",
+                "4",
+                "5"
             ],
+            "partner": "Court Wescott",
             "children": [
-                "",
-                "",
-                ""
+                "Hilton",
+                "Cruise"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Pink dog food",
+                "Parties planned with proper etiquette",
+                "Pomeranians"
             ],
             "dislikes": [
-                "",
-                ""
+                "Anything declassé",
+                "Losing her dream home"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 2: Dumb blondes get noticed, smart blondes get everything.",
+                "Season 3: I've got heels that are higher than your standards.",
+                "Season 4: Just cause I look like Barbie, doesn't mean you can play me.",
+                "Season 5: I love to be pampered, but I’m nobody's pet."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=bhGhXAuMlNo"
         },
         {
             "id": 104,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Kary",
+            "last_name": "Brittingham",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "07/14/1970",
             "seasons": [
-                "", 
-                "",
-                ""
+                "4", 
+                "5"
             ],
+            "partner": "Eduardo Brittingham",
             "children": [
-                "",
-                "",
-                ""
+                "Sofia",
+                "Olivia",
+                "Alex",
+                "Isabella"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Pouring tequila into everyone's mouth",
+                "Making bbold designs for her jewelry line"
             ],
             "dislikes": [
-                "",
-                ""
+                "Doing trunk shows with D'Andra",
+                "Thinking about her prenup"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 4: I'm bilingual, but I don't speak B.S.",
+                "Season 5: If you take a shot at me, it better be tequila!"
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=OhxDxTAI_H0"
         },
         {
             "id": 105,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Tiffany",
+            "last_name": "Moon",
+            "city": "Dallas",
+            "show": "The Real Housewives of Dallas",
+            "birthday": "08/13/1984",
             "seasons": [
-                "", 
-                "",
-                ""
+                "5"
             ],
+            "partner": "Daniel Moon",
             "children": [
-                "",
-                "",
-                ""
+                "Chloe",
+                "Madison"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Spreadsheets for all parts of her life",
+                "Being incredibly smart",
+                "Reminding people she's a doctor"
             ],
             "dislikes": [
-                "",
-                ""
+                "Wearing shoes inside",
+                "When people won't try chicken feet or crickets"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
+                "Season 5: I can save your life, but not your reputation."
+            ]
         },
         {
             "id": 106,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Lisa",
+            "last_name": "Barlow",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "birthday": "12/21/1974",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1"
             ],
+            "partner": "John Barlow",
             "children": [
-                "",
-                "",
-                ""
+                "Henry",
+                "Jack"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "VIDA TEQUILA",
+                "Meredith Marks",
+                "Diet coke from fast food restaurants",
+                "Turning family time into a business meeting"
             ],
             "dislikes": [
-                "",
-                ""
+                "Anyone else claiming to be 'big' at Sundance"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 1: When you take cheap shots, always expect a hangover."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
         },
         {
             "id": 107,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Mary",
+            "last_name": "Cosby",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "birthday": "1976",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1"
             ],
+            "partner": "Robert Sr., formerly her step-grandgather",
             "children": [
-                "",
-                "",
-                ""
+                "Robert Jr."
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Preaching to her congregation to get them to give all their money to her church",
+                "Her green loofa dress",
+                "Marrying her step-grandfather"
             ],
             "dislikes": [
-                "",
-                ""
+                "Organizing her closet",
+                "Being called out for marrying her step-grandfather",
+                "The smell of hospitals"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 1: I love God, but I will read you like a scripture."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
         },
         {
             "id": 108,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Heather",
+            "last_name": "Gay",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1"
             ],
+            "previous_partners": "Billy Gay",
             "children": [
-                "",
-                "",
-                ""
+                "Ashley",
+                "Georgia",
+                "Annabelle"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Beauty Lab Laser",
+                "Telling people Rihanna DM'ed her",
+                "Cracking all the right jokes at all the right times"
             ],
             "dislikes": [
-                "",
-                ""
+                "Judgy Mormons",
+                "Friend poachers"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 1: Just like my pioneer ancestors, I’m trying to blaze a new trail."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
         },
         {
             "id": 109,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Meredith",
+            "last_name": "Marks",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "birthday": "12/15/1971",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1"
             ],
+            "partner": "Seth Marks",
             "children": [
-                "",
-                "",
-                ""
+                "Reid",
+                "Chloe",
+                "Brooks"
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Brooks Marks designs"
             ],
             "dislikes": [
-                "",
-                ""
+                "Ohio"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 1: Jealousy is a disease to which I say ‘Get well soon."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
         },
         {
             "id": 110,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Whitney",
+            "last_name": "Rose",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "birthday": "05/09/1986",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1"
             ],
+            "partner": "Justin Rose",
             "children": [
-                "",
-                "",
-                ""
+                "Bobbi",
+                "Brooks"
             ],
             "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
+                "Pole dancing at any event she can"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 1: This rose isn’t scared to handle a little prick."
             ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
         },
         {
             "id": 111,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
+            "first_name": "Jen",
+            "last_name": "Shah",
+            "city": "Salt Lake City",
+            "show": "The Real Housewives of Salt Lake City",
+            "birthday": "10/04/1973",
             "seasons": [
-                "", 
-                "",
-                ""
+                "1"
             ],
+            "partner": "Coach Sharrieff Shah",
             "children": [
-                "",
-                "",
-                ""
+                "Omar",
+                "Sharrieff Jr."
             ],
             "likes": [
-                "",
-                "",
-                ""
+                "Causing a scene at any and all events"
             ],
             "dislikes": [
-                "",
-                ""
+                "Being blamed for causing a scene",
+                "Being told she smells like hospital"
             ],
             "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
+                "Season 1: In this town, I’m queen bee — and MVP."
             ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 112,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 113,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 114,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 115,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 116,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 117,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 118,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 119,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 120,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 121,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 122,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 123,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 124,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 125,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 126,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 127,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 128,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 129,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 130,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 131,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 132,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 133,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 134,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 135,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 136,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
-        },
-        {
-            "id": 137,
-            "first_name": "",
-            "last_name": "",
-            "birthday": "",
-            "seasons": [
-                "", 
-                "",
-                ""
-            ],
-            "children": [
-                "",
-                "",
-                ""
-            ],
-            "likes": [
-                "",
-                "",
-                ""
-            ],
-            "dislikes": [
-                "",
-                ""
-            ],
-            "taglines": [
-                "Season 1: ",
-                "Season 2: ",
-                "Season 3: "
-            ],
-            "memorable_moments_url": ""
+            "memorable_moments_url": "https://www.youtube.com/watch?v=KBuTPKvV6Vc"
         }
     ]
 }
